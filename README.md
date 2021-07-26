@@ -13,7 +13,7 @@ Assignment  | Language | Description
 [HW9](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW9)  | C | __Part 1:__ Recursion problems __Part2:__ COVİD-19 Health Coverage with struct and recursion __Part3:__ Card game with struct
 [HW10](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW10) | C | Understanding Structs using Geometry ,perform desired tasks using two-dimensional geometric shapes
 [HW11](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW11) | C | Comparing efficiency in linked list and dynamic array by reading very long number in given txt file
-[HW11](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW12) | C | Make Huffmam Tree from text
+[HW12](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW12) | C | Make Huffmam Tree from text
 
 ## Purpose of the course
 - Content of this course comprises of Introduction to C programming, Control Structures, Functions and Arrays, Pointers and Strings, Input Output, Structures, File processing, The preprocessor, Data Structures, Advanced topics.
