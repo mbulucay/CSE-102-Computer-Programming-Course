@@ -1,4 +1,4 @@
-![gtuicon](https://abl.gtu.edu.tr/html/mobil/gtu_logo_tr_500.png) # CSE102  Computer Programming 
+![gtuicon](https://seeklogo.com/images/G/gebze-teknik-universitesi-gtu-logo-DB51C963F7-seeklogo.com.png) # CSE102  Computer Programming 
 
 Assignment  | Language | Description
 ------------- | ------------- | ------------- 
